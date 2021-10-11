@@ -1,4 +1,6 @@
 Tarefa 1 - Similaridade de enzimas entre organismos
+Ana Luiza Moraes Octaviano	11779931
+Giuliana Lopes Pola	11779802
 
 Exercício 01: verificação simples
 hamster,horse: 0.9713

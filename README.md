@@ -22,9 +22,8 @@ As atividades do curso incluem análise de dados, implementações de algoritmos
 1. [Atividades e Tarefas](#atividades-e-tarefas)
 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 3. [Como Executar](#como-executar)
-4. [Como Contribuir](#como-contribuir)
-5. [Licença](#licença)
-6. [Status do Projeto](#status-do-projeto)
+4. [Licença](#licença)
+5. [Status do Projeto](#status-do-projeto)
 
 ---
 
