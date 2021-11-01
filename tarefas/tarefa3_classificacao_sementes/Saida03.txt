@@ -1,0 +1,48 @@
+Tarefa 3 - Classificação de sementes de trigo
+Ana Luiza Moraes Octaviano 11779931
+Giuliana Lopes Pola 11779802
+
+
+CLASSIFICAÇÃO POR ÁRVORES DE DECISÃO
+A instância de teste: ['15.11', '14.54', '0.8986', '5.579', '3.462', '3.128', '5.18'] foi classificada como a classe '1' com probabilidade [1. 0. 0.]
+A instância de teste: ['11.23', '12.82', '0.8594', '5.089', '2.821', '7.524', '4.957'] foi classificada como a classe '3' com probabilidade [0. 0. 1.]
+A instância de teste: ['15.78', '14.91', '0.8923', '5.674', '3.434', '5.593', '5.136'] foi classificada como a classe '1' com probabilidade [1. 0. 0.]
+A instância de teste: ['12.37', '13.47', '0.8567', '5.204', '2.96', '3.919', '5.001'] foi classificada como a classe '3' com probabilidade [0. 0. 1.]
+A instância de teste: ['16.12', '15', '0.9', '5.709', '3.485', '2.27', '5.443'] foi classificada como a classe '2' com probabilidade [0. 1. 0.]
+A instância de teste: ['20.88', '17.05', '0.9031', '6.45', '4.032', '5.016', '6.321'] foi classificada como a classe '2' com probabilidade [0. 1. 0.]
+A instância de teste: ['13.94', '14.17', '0.8728', '5.585', '3.15', '2.124', '5.012'] foi classificada como a classe '1' com probabilidade [1. 0. 0.]
+A instância de teste: ['12.15', '13.45', '0.8443', '5.417', '2.837', '3.638', '5.338'] foi classificada como a classe '3' com probabilidade [0. 0. 1.]
+A instância de teste: ['12.19', '13.2', '0.8783', '5.137', '2.981', '3.631', '4.87'] foi classificada como a classe '3' com probabilidade [0. 0. 1.]
+A instância de teste: ['11.35', '13.12', '0.8291', '5.176', '2.668', '4.337', '5.132'] foi classificada como a classe '3' com probabilidade [0. 0. 1.]
+
+A acurácia é de 90.00%
+
+
+CLASSIFICAÇÃO POR NAIVE BAYES
+A instância de teste: ['15.11', '14.54', '0.8986', '5.579', '3.462', '3.128', '5.18'] foi classificada como a classe '1' com probabilidade [9.99998087e-01 1.91293225e-06 8.10489774e-13]
+A instância de teste: ['11.23', '12.82', '0.8594', '5.089', '2.821', '7.524', '4.957'] foi classificada como a classe '3' com probabilidade [1.42687215e-08 1.36158177e-26 9.99999986e-01]
+A instância de teste: ['15.78', '14.91', '0.8923', '5.674', '3.434', '5.593', '5.136'] foi classificada como a classe '1' com probabilidade [9.99656660e-01 3.43339531e-04 5.20948902e-15]
+A instância de teste: ['12.37', '13.47', '0.8567', '5.204', '2.96', '3.919', '5.001'] foi classificada como a classe '3' com probabilidade [1.62697754e-03 2.38562891e-19 9.98373022e-01]
+A instância de teste: ['16.12', '15', '0.9', '5.709', '3.485', '2.27', '5.443'] foi classificada como a classe '1' com probabilidade [9.76538594e-01 2.34614057e-02 5.60908240e-20]
+A instância de teste: ['20.88', '17.05', '0.9031', '6.45', '4.032', '5.016', '6.321'] foi classificada como a classe '2' com probabilidade [5.09585665e-23 1.00000000e+00 1.07913174e-99]
+A instância de teste: ['13.94', '14.17', '0.8728', '5.585', '3.15', '2.124', '5.012'] foi classificada como a classe '1' com probabilidade [9.99998587e-01 1.14453837e-11 1.41294019e-06]
+A instância de teste: ['12.15', '13.45', '0.8443', '5.417', '2.837', '3.638', '5.338'] foi classificada como a classe '3' com probabilidade [4.34172155e-04 3.94679132e-18 9.99565828e-01]
+A instância de teste: ['12.19', '13.2', '0.8783', '5.137', '2.981', '3.631', '4.87'] foi classificada como a classe '3' com probabilidade [8.74545814e-03 3.61278211e-20 9.91254542e-01]
+A instância de teste: ['11.35', '13.12', '0.8291', '5.176', '2.668', '4.337', '5.132'] foi classificada como a classe '3' com probabilidade [3.14350788e-08 1.46050361e-26 9.99999969e-01]
+
+A acurácia é de 100.00%
+
+
+CLASSIFICAÇÃO POR SVM
+A instância de teste: ['15.11', '14.54', '0.8986', '5.579', '3.462', '3.128', '5.18'] foi classificada como a classe '1'
+A instância de teste: ['11.23', '12.82', '0.8594', '5.089', '2.821', '7.524', '4.957'] foi classificada como a classe '3'
+A instância de teste: ['15.78', '14.91', '0.8923', '5.674', '3.434', '5.593', '5.136'] foi classificada como a classe '2'
+A instância de teste: ['12.37', '13.47', '0.8567', '5.204', '2.96', '3.919', '5.001'] foi classificada como a classe '3'
+A instância de teste: ['16.12', '15', '0.9', '5.709', '3.485', '2.27', '5.443'] foi classificada como a classe '1'
+A instância de teste: ['20.88', '17.05', '0.9031', '6.45', '4.032', '5.016', '6.321'] foi classificada como a classe '2'
+A instância de teste: ['13.94', '14.17', '0.8728', '5.585', '3.15', '2.124', '5.012'] foi classificada como a classe '1'
+A instância de teste: ['12.15', '13.45', '0.8443', '5.417', '2.837', '3.638', '5.338'] foi classificada como a classe '3'
+A instância de teste: ['12.19', '13.2', '0.8783', '5.137', '2.981', '3.631', '4.87'] foi classificada como a classe '3'
+A instância de teste: ['11.35', '13.12', '0.8291', '5.176', '2.668', '4.337', '5.132'] foi classificada como a classe '3'
+
+A acurácia é de 90.00%
